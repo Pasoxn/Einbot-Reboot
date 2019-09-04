@@ -1,0 +1,14 @@
+{
+  "name": "einbot",
+  "version": "1.0.0",
+  "description": "Bork ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syscory",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
