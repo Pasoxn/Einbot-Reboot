@@ -5,22 +5,22 @@ Einbot, but better, and with discord.js this time around
 
 ### Miscellaneous 
 > !8Ball 
-ex: !8ball Will I get my homework done?
+```ex: !8ball Will I get my homework done?```
 
 > !insult 
-ex: !insult or !insult @[person]
+```ex: !insult or !insult @[person]```
 
 > !uwu
-ex: !uwu [text you want uwu-ified)
+```ex: !uwu [text you want uwu-ified)```
 
 ### RPG
-> work in progress...
+```> work in progress...```
 
 ### Utility
-> !avatar
+```> !avatar
 ex: !avatar 
 
 > !userinfo 
-ex: !userinfo
+ex: !userinfo```
 
 + some top secret commands....
