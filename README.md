@@ -17,10 +17,10 @@ Einbot, but better, and with discord.js this time around
 ```> work in progress...```
 
 ### Utility
-```> !avatar
-ex: !avatar 
+> !avatar
+```ex: !avatar```
 
 > !userinfo 
-ex: !userinfo```
+```ex: !userinfo```
 
 + some top secret commands....
