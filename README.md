@@ -20,7 +20,8 @@ Einbot, but better, and with discord.js this time around
 > !avatar
 ```ex: !avatar```
 
+> !commands 
+```ex: !commands```
+
 > !userinfo 
 ```ex: !userinfo```
-
-+ some top secret commands....
